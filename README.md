@@ -1,5 +1,3 @@
-This looks like a great set of technical features for a showcase post! Here is the content formatted in clean Markdown:
-
 ## 🚀 Tech Highlights: AutoML Wizard
 
 Here are the core technical features and capabilities of the application:
