@@ -1,6 +1,6 @@
 ## 🚀 Tech Highlights: AutoML Wizard
 
-Here are the core technical features and capabilities of the application:
+Core technical features and capabilities of the application:
 
 ### 1. ⚙️ End-to-End Guided Workflow
 
